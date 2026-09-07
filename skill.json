@@ -1,0 +1,15 @@
+{
+  "name": "genpark-gradient-episodic-memory-gem-projector-skill",
+  "version": "1.0.0",
+  "description": "Gradient Episodic Memory (GEM / A-GEM) gradient projection engine.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "gradient-episodic-memory",
+    "gem",
+    "a-gem",
+    "gradient-projection",
+    "continual-learning"
+  ]
+}
